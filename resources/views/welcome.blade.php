@@ -19,6 +19,8 @@
 
         <p>update daripada repo mygym. branch main</p>
 
+        <p>bla bla bla 22pm from branch reception</p>
+
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
