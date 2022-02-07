@@ -10,13 +10,6 @@
         <h2>update mygym. branch main</h2>
         <h3>update h3 yg ketiga. cuba baiki</h3>
 
-        <h4>ni update bugrecord h4</h4>
-
-        <h4>ni update bugrecord h4</h4>
-
-        <h4>ni update bugrecord h4</h4>
-
-        <h4>ni update bugrecord h4</h4>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
